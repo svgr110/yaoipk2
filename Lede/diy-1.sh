@@ -17,6 +17,7 @@ git clone https://github.com/jerrykuku/node-request.git package/lean/node-reques
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus  #京东签到
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/lean/luci-app-adguardhome
 git clone https://github.com/user1121114685/koolproxyR/koolproxyR/package/lean/luci-app-koolproxyR
+git clone https://github.com/user1121114685/koolproxyR/package/lean/luci-app-koolproxyR
 svn co https://github.com/xiaorouji/openwrt-package/trunk/lienol/luci-app-passwall package/lean/luci-app-passwall  #passwall出国软件
 
 svn co https://github.com/xiaorouji/openwrt-package/trunk/package package/lean/package  #passwall出国软件配套
