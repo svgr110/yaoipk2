@@ -18,7 +18,7 @@ git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/l
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/lean/luci-app-adguardhome
 git clone https://github.com/MonwF/luci-app-filebrowser.git package/lean/luci-app-filebrowser
 
-
+git clone https://github.com/MonwF/luci-app-filebrowser.git package/lean/luci-app-filebrowser
 
 git clone https://github.com/prcxu/luci-app-koolproxyR.git package/lean/luci-app-koolproxyR
 svn co https://github.com/xiaorouji/openwrt-package/trunk/lienol/luci-app-passwall package/lean/luci-app-passwall  #passwall出国软件
